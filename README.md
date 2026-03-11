@@ -1,6 +1,6 @@
 # 🛍️ Trabalho Final API - E-Commerce (Grupo 4 - Serratec) 
 
-## Visão Geral do Projeto
+## Visão Geral do Projeto (PROJETO COPIA)
 
 O **TrabalhoFinalAPI-Grupo4** é uma aplicação desenvolvida em **Java 17** com **Spring Boot 3.5.6**, criada como parte do **projeto final da disciplina de Desenvolvimento de API** do curso **Serratec - Residência em TIC - Software**.
 
